@@ -1,7 +1,7 @@
 # book-manager-service
 
 In this mini-project, we want to implement a small service for maintaining users’ books. With this service, clients
-can create new user accounts. The requests of book-related API should be authenticated.
+can create new user accounts. The requests for the book-related API undergo authentication.
 
 ## Structure of packages
 
